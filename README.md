@@ -4,15 +4,15 @@ Welcome to Travelo, your ultimate travel companion! Travelo is a travel and tour
 
 ## Features
 
--** Discover Exciting Destinations: Explore a diverse range of destinations from around the globe, each with stunning images and detailed descriptions. Whether you're dreaming of relaxing on a tropical beach, hiking through majestic mountains, or exploring bustling cities, Travelo has something for everyone. **
--** Plan Your Next Adventure: Find all the information you need to plan your trip, including attractions, accommodations, restaurants, transportation options, and insider tips. Our comprehensive destination guides make it easy to create your perfect itinerary and make the most of your travels. **
--** Immerse Yourself in Travel: Experience the world through Travelo's immersive platform. From virtual tours and 360-degree videos to curated travel experiences and cultural insights, Travelo brings the world to your fingertips, allowing you to explore new destinations and cultures from the comfort of your own home. **
+- ** Discover Exciting Destinations: Explore a diverse range of destinations from around the globe, each with stunning images and detailed descriptions. Whether you're dreaming of relaxing on a tropical beach, hiking through majestic mountains, or exploring bustling cities, Travelo has something for everyone. **
+- ** Plan Your Next Adventure: Find all the information you need to plan your trip, including attractions, accommodations, restaurants, transportation options, and insider tips. Our comprehensive destination guides make it easy to create your perfect itinerary and make the most of your travels. **
+- ** Immerse Yourself in Travel: Experience the world through Travelo's immersive platform. From virtual tours and 360-degree videos to curated travel experiences and cultural insights, Travelo brings the world to your fingertips, allowing you to explore new destinations and cultures from the comfort of your own home. **
 -** User-Friendly Interface: Travelo's user-friendly interface is designed to be intuitive and easy to navigate, ensuring a seamless user experience for travelers of all ages and experience levels. Whether you're searching for specific information, browsing through destinations, or booking your next trip, Travelo makes it easy to find what you're looking for. **
 
 ## Technologies Used
 
--** HTML5: Used for structuring the content of the website, including headings, paragraphs, lists, and links. **
--** CSS : Used for styling and layout purposes, including colors, fonts, spacing, and responsive design. **
+- ** HTML5: Used for structuring the content of the website, including headings, paragraphs, lists, and links. **
+- ** CSS : Used for styling and layout purposes, including colors, fonts, spacing, and responsive design. **
 
 ## Getting Started
 
