@@ -4,10 +4,10 @@ Welcome to Travelo, your ultimate travel companion! Travelo is a travel and tour
 
 ## Features
 
-- **Discover Exciting Destinations:**
-- **Plan Your Next Adventure:**
-- **Immerse Yourself in Travel:**
-- **User-Friendly Interface:**
+- **Discover Exciting Destinations**
+- **Plan Your Next Adventure**
+- **Immerse Yourself in Travel**
+- **User-Friendly Interface**
 
 ## Technologies Used
 
