@@ -1,0 +1,61 @@
+ *{
+ padding:0;margin:0;
+ }
+ header { 
+ width:100%;height:100vh;
+ background:linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.4)),
+ url('../Images/11.jpg');background-size:cover;
+ }
+ nav {
+ width:100%; height:100px; color:white;display:flex;
+ justify-content: space-around;
+ align-items: center; font-family:cursive; 
+ }
+ .logo2 {
+ color:indianred;font-size:30px;
+ }
+  .menu a{
+ text-decoration:none; color:white; padding:10px 15px;
+ font-size:20px; position: relative;
+ }
+ .menu a:before{
+ content:''; position:absolute;
+ top:0; left:0; width:0%; height:100%;
+ border-bottom: 2px solid indianred;
+ transition: 0.5s linear;
+ }
+ .menu  a:hover:before{
+ width:100%;
+ }
+ .reg a{
+ text-decoration:none; color:white; padding:10px 20px;
+ font-size:20px; background: indianred; border-radius:8px;
+ transition:0.4s;
+ }
+ .reg  a:hover{
+ background: white; color:indianred;
+ border:6px solid indianred;
+ }
+ .body {
+ position:absolute;  top:50%;  left:50%;
+ transform: translate(-50%,-50%);
+ text-align:center; color:white;
+ }
+ .body h2 {
+ font-size:2em;
+ }
+ .body h3 {
+ letter-spacing:8px;font-size:5em;color:indianred;
+ }
+ .body h1 {
+  font-size:2em;
+ }
+ .body a {
+ text-decoration:none; background: indianred;
+ color:white; padding: 10px 20px; letter-spacing: 5px;
+ font-size:3.5em;transition:0.4s;border-radius:8px;
+ }
+ .body  a:hover{
+ background: white; color:indianred;
+ border:6px solid indianred;
+ }

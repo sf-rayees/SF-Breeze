@@ -1,0 +1,61 @@
+*{
+padding:0px;margin:0px;
+}
+.navbar{
+width: 100%;height: 90px; display: flex;
+justify-content: space-around;align-items: center;	
+}
+.menu a{
+display: flex;width:40%;float:left;align-items:center;
+text-decoration:none;color:black;
+padding:5px 12px;display:inline;font-size:18px;
+}
+.signup a{
+text-decoration: none;font-size:18px;
+font-weight:bold;border-radius:12px;padding:12px 30px;
+border:2px solid red;color:black;
+}
+.signup a:hover{
+background-color:red;transition:0.6s;color:black;
+}
+.body{
+width:100%;height:100vh;display:flex;
+justify-content:space-around;align-items:center;
+background-image:url('../Images/21.jpg');
+background-position:center;background-size:cover;
+}
+.heading{
+width: 30%;text-align: center;color: white;
+}
+.heading h1{
+font-size: 40px;
+}
+.heading a{
+text-decoration:none; font-size:25px;
+font-weight:bold; border-radius: 45px;
+padding: 14px 50px; background-color:white;
+}
+.heading a:hover{
+letter-spacing: 3px; transition: 0.6s;
+}
+.tours{
+width: 120%;height:80px; display:flex;
+justify-content:space-around; align-items:center;
+}
+.places{
+display:inline; text-align:center;border-radius:12px;
+}
+.places a,h2{
+text-decoration:none;color:red; font-weight:bold;
+font-size:18px; border-radius:12px;padding:12px 30px;
+background-color:white;
+}
+a:hover{
+background-color:black; letter-spacing:3px;
+transition:0.6s;color:red;
+}
+.footer a{
+width:100%; height:50px; display:flex;
+justify-content:space-around; text-decoration:none;
+align-items:center; color:red;
+}
